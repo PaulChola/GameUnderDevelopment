@@ -1,3 +1,3 @@
 # GameUnderDevelopment*
 
-Game umderBuilding repo
+Game UnderContractionDemo repo
