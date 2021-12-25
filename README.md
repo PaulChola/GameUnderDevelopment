@@ -1,3 +1,3 @@
 # GameUnderDevelopment*
 
-Game UnderContractionDemo repo
+Game Demo repo and final release
